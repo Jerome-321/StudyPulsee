@@ -1,1 +1,1 @@
-# StudyPulsee
+# StudyPulse
